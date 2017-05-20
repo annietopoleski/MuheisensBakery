@@ -1,0 +1,51 @@
+h1{
+  font-family: "Mrs Saint Delafield", cursive;
+	font-size: 150px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 110.4px;
+}
+
+h2{
+  font-family: "Mrs Saint Delafield", cursive;
+	font-size: 75px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 75px;
+}
+
+p{
+  font-family: 'Sansita', sans-serif;
+}
+
+.row{
+  padding-bottom: 100px;
+}
+
+.imgWrap {
+  position: relative;
+  padding-bottom: 20px;
+}
+.imgDescription {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(50, 50, 50, 0.52);
+  color: #fff;
+  font-size: 25px;
+  visibility: hidden;
+  opacity: 0;
+}
+
+p{
+  padding-top: 30%;
+}
+
+.imgWrap:hover .imgDescription {
+  visibility: visible;
+  opacity: 1;
+}

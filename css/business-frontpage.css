@@ -1,0 +1,62 @@
+
+ * Start Bootstrap - Business Frontpage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+p{
+  font-family: 'Sansita', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+	font-variant: normal;
+}
+
+h1{
+  font-family: "Mrs Saint Delafield", cursive;
+	font-size: 150px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 126.4px;
+}
+
+h2{
+  font-family: "Mrs Saint Delafield", cursive;
+	font-size: 75px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 75px;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+    height: 400px;
+    background: url("../bakeryex.jpg") center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+    margin: .5em;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
