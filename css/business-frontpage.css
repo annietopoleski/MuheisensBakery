@@ -49,7 +49,7 @@ body {
 .tagline {
     text-shadow: 0 0 10px #000;
     color: #fff;
-    margin: .5em;
+  margin: .5em 0 .5em 0;
     font-size: 19vh;
 }
 
