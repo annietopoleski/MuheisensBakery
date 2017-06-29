@@ -1,0 +1,23 @@
+p{
+  font-family: 'Sansita', sans-serif;
+}
+
+h1{
+  padding-top: 15px;
+  text-align: center;
+  font-family: "Mrs Saint Delafield", cursive;
+	font-size: 150px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 110.4px;
+}
+
+h2{
+  font-family: "Mrs Saint Delafield", cursive;
+	font-size: 75px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 75px;
+}
